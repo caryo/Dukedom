@@ -1,0 +1,6 @@
+/*
+ * initialize the random number generator with a new seed value
+ * initialize the global variables
+ * provide an introduction to the game
+ * prompt the user for option to skip detailed reports
+ */
